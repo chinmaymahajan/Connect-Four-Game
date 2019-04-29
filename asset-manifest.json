@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Connect-Four-Game/static/css/main.a419590b.chunk.css",
+    "main.js": "/Connect-Four-Game/static/js/main.e586f1c6.chunk.js",
+    "main.js.map": "/Connect-Four-Game/static/js/main.e586f1c6.chunk.js.map",
+    "runtime~main.js": "/Connect-Four-Game/static/js/runtime~main.916913e1.js",
+    "runtime~main.js.map": "/Connect-Four-Game/static/js/runtime~main.916913e1.js.map",
+    "static/js/2.c2695c00.chunk.js": "/Connect-Four-Game/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/Connect-Four-Game/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/Connect-Four-Game/index.html",
+    "precache-manifest.58a4d2c94cdbfaf3b92d705c4b23f2ba.js": "/Connect-Four-Game/precache-manifest.58a4d2c94cdbfaf3b92d705c4b23f2ba.js",
+    "service-worker.js": "/Connect-Four-Game/service-worker.js",
+    "static/css/main.a419590b.chunk.css.map": "/Connect-Four-Game/static/css/main.a419590b.chunk.css.map"
+  }
+}
