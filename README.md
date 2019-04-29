@@ -1,6 +1,9 @@
 # Connect four game using React
 About the game Wiki: https://en.wikipedia.org/wiki/Connect_Four
 
+## Live Demo
+https://chinmaymahajan.github.io/Connect-Four-Game/
+<br><br><br>
 
 ![Screenshot](./screenshot.png)
 
